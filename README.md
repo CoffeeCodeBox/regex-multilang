@@ -3,7 +3,7 @@
 A clean, beginner-friendly guide to regular expressions in major programming languages — made for curious learners, everyday developers, and anyone tired of googling regex again and again.
 
 > 📦 Powered by [CoffeeCodeBox](https://github.com/CoffeeCodeBox)  
-> ✍️ Authorized by [Mohammadreza Sadeghi](https://github.com/devmrsad) & [AmirMahdi Barati](https://github.com/Amir-Mahdi-barati)
+> ✍️ Created by [Mohammadreza Sadeghi](https://github.com/devmrsad) & [AmirMahdi Barati](https://github.com/Amir-Mahdi-barati)
 
 ---
 
