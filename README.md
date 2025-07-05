@@ -32,6 +32,7 @@ No deep theory. Just clear patterns, cross-language examples, and community-driv
 
 - JavaScript
 - Python
+- Rust
 
 > 🧩 **Want to help us grow?**  
 > We’re looking for contributors to add more languages, like:
@@ -39,7 +40,6 @@ No deep theory. Just clear patterns, cross-language examples, and community-driv
 > - Go
 > - Ruby
 > - C#
-> - Rust
 > - Swift
 > - Kotlin
 > - Perl
@@ -56,6 +56,7 @@ Check out the language-specific guides in the `src/` folder:
 
 - 📘 [Regex in JavaScript](src/regex.js)
 - 🐍 [Regex in Python](src/regex.py)
+- 🦀 [Regex in Rust](src/regex.rs)
 - ⏲️ Coming Soon...
 
 > More tutorials coming soon!
